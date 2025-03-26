@@ -16,6 +16,7 @@ Outside of tech, I enjoy a wide range of creative and dynamic activities:
 🎭 I’m a student of an improv theatre group <strong>(Coimbra Impro)</strong>  
 ⚽ Co-founder and player of a 7-a-side amateur football team <strong>(Biro FC)</strong>  
 🎸 Former rhythm guitarist in two Brazilian music groups, and a songwriter sometimes
+
 🎾 Longtime tennis player (12+ years)  
 ✈️ Aviation fan and flight simulator enthusiast  
 🌍 Travel lover with a curiosity for nature and culture
