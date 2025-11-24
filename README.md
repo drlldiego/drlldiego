@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hey there, I'm Diego</h1>
 
 <p align="center">
-  🎓 Computer Engineering Student &nbsp;|&nbsp; 💻 Tech Enthusiast &nbsp;|&nbsp; 🚀 Passionate Learner
+  🎓 Computer Engineering Graduate &nbsp;|&nbsp; 💻 Tech Enthusiast &nbsp;|&nbsp; 🚀 Passionate Learner
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a final-year Computer Engineering student at the Instituto Superior de Engenharia de Coimbra (ISEC).
+I'm a Computer Engineering graduate from the Instituto Superior de Engenharia de Coimbra (ISEC).
 
 I've been passionate about technology from a young age and always found it easy to explore and adapt to new tools, devices, and platforms. I'm especially interested in learning through experimentation, building meaningful projects, and solving real-world problems through code.
 
