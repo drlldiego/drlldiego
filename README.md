@@ -25,8 +25,8 @@ Outside of tech, I enjoy a wide range of creative and dynamic activities:
 
 ## ⚙️ Tech & Tools I Like
 
-- Programming: `C#`, `Java`, `JavaScript`, `Python`
-- Web: `.NET`, `HTML`, `CSS`, `React`
+- Programming: `C#`, `Java`
+- Web: `.NET`, `HTML`, `CSS`, `JavaScript`, `TypeScript`, `React`
 - Mobile: `Kotlin`, `Flutter`
 - Tools: `Git`, `GitHub`, `VS Code`, `Android Studio`, `Visual Studio`
 
