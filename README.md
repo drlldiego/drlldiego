@@ -13,7 +13,7 @@ I'm a Computer Engineering graduate from the Instituto Superior de Engenharia de
 I've been passionate about technology from a young age and always found it easy to explore and adapt to new tools, devices, and platforms. I'm especially interested in learning through experimentation, building meaningful projects, and solving real-world problems through code.
 
 Outside of tech, I enjoy a wide range of creative and dynamic activities:  
-🎭 I’m a student of an improv theatre group <strong>(Coimbra Impro)</strong>  
+🎭 I’ve trained in improv theatre <strong>(Coimbra Impro)</strong>  
 ⚽ Co-founder and player of a 7-a-side amateur football team <strong>(Biro FC)</strong>  
 🎸 Former rhythm guitarist in two Brazilian music groups, and a songwriter sometimes
 
